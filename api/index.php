@@ -1,4 +1,5 @@
 <?php
+
 $dsn = 'mysql:host=db;dbname=testdb;charset=utf8mb4';
 $username = 'root';
 $password = 'rootpassword';
